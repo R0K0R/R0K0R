@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R0K0R
+- 👋 Hi, I’m @Rko
 - 👀 I’m interested in mc plugins, and I am trying to share it
 - 🌱 I’m currently learning java, python, c#
 
